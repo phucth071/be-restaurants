@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\School\\HK6\\WESE-bao-mat-web\\CuoiKi\\WebAPI_Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B24F236-CC14-4093-9438-68C42AE9C15B}|WebAPI.csproj|d:\\school\\hk6\\wese-bao-mat-web\\cuoiki\\webapi_backend\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8B24F236-CC14-4093-9438-68C42AE9C15B}|WebAPI.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B24F236-CC14-4093-9438-68C42AE9C15B}|WebAPI.csproj|D:\\School\\HK6\\WESE-bao-mat-web\\CuoiKi\\WebAPI_Backend\\models\\dbmodels.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{8B24F236-CC14-4093-9438-68C42AE9C15B}|WebAPI.csproj|solutionrelative:models\\dbmodels.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\School\\HK6\\WESE-bao-mat-web\\CuoiKi\\WebAPI_Backend\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "D:\\School\\HK6\\WESE-bao-mat-web\\CuoiKi\\WebAPI_Backend\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-23T00:37:45.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBModels.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\School\\HK6\\WESE-bao-mat-web\\CuoiKi\\WebAPI_Backend\\Models\\DBModels.edmx",
+              "RelativeDocumentMoniker": "Models\\DBModels.edmx",
+              "ToolTip": "D:\\School\\HK6\\WESE-bao-mat-web\\CuoiKi\\WebAPI_Backend\\Models\\DBModels.edmx [Diagram1]",
+              "RelativeToolTip": "Models\\DBModels.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-04-23T00:30:14.826Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
